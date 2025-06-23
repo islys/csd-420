@@ -1,0 +1,52 @@
+Goalie
+Wayne Gretzky
+Alexander Ovechkin
+Slapshot
+Matthew Beniers
+Hat trick
+Faceoff
+Icing
+	Johnathan Toews
+Offside
+Cale Makar
+Puck
+Brad Marchand
+Connor McDavid
+Power play
+Johnathan Toews
+Penalty kill
+
+Line brawl
+Breakaway
+Forecheck
+
+Patrick Kane
+Backcheck
+	Stickhandling
+Body check
+Sydney Crosby
+Tyler Bertuzzi
+Blue line
+Brandon Hagel
+Neutral zone
+Artemi Panarin
+Deke
+
+Connor Bedard
+Wrist shot
+	Glove save
+Overtime	
+Puck
+Matthew Tkachuk
+Teuvo Teräväinen
+Slapshot
+Alexander Ovechkin
+Faceoff
+Power play
+	Overtime
+Matthew Tkachuk
+Sydney Crosby
+Sam Bennett
+David Pastrňák
+Nathan Mackinnon
+Gordie Howe
